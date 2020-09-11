@@ -2,7 +2,7 @@
 
 -github link
 
-https://www.youtube.com/watch?v=LtEP_-3a5CY
+https://github.com/AnushriGulhane/WeatherAPI.git
 
 -command to setup application
 Put your API_KEY and SQL Server connection string in .env file
