@@ -11,4 +11,4 @@ Put your API_KEY and SQL Server connection string in .env file
 npm install
 npm run serve
 
-
+update readme 13/07/2022
